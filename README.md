@@ -4,7 +4,7 @@ Formulário criado durante vídeo aula do canal da Girl Coding
 
 ### Screenshot
 
-![Screenshot](https://github.com/1fernandocosta/login-form-main-Girl-Coding/blob/main/src/images/screenshot.jpg)
+![Screenshot](https://github.com/1fernandocosta/login-form-main-Girl-Coding/blob/main/src/images/screenshot.png)
 
 
 ### Links
